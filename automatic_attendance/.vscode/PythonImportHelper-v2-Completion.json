@@ -1,0 +1,694 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "KNeighborsClassifier",
+        "importPath": "sklearn.neighbors",
+        "description": "sklearn.neighbors",
+        "isExtraImport": true,
+        "detail": "sklearn.neighbors",
+        "documentation": {}
+    },
+    {
+        "label": "joblib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "joblib",
+        "description": "joblib",
+        "detail": "joblib",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "attendance.migrations.0001_initial",
+        "description": "attendance.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = []\n    operations = [\n        migrations.CreateModel(\n            name=\"User\",\n            fields=[\n                (\n                    \"id\",\n                    models.BigAutoField(",
+        "detail": "attendance.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "attendance.migrations.0002_attendance_date",
+        "description": "attendance.migrations.0002_attendance_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"attendance\", \"0001_initial\"),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name=\"attendance\",\n            name=\"date\",\n            field=models.DateField(\n                auto_now_add=True,",
+        "detail": "attendance.migrations.0002_attendance_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "attendance.migrations.0003_remove_attendance_date",
+        "description": "attendance.migrations.0003_remove_attendance_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"attendance\", \"0002_attendance_date\"),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name=\"attendance\",\n            name=\"date\",\n        ),\n    ]",
+        "detail": "attendance.migrations.0003_remove_attendance_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "attendance.migrations.0004_remove_user_roll_number_user_id_number",
+        "description": "attendance.migrations.0004_remove_user_roll_number_user_id_number",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        (\"attendance\", \"0003_remove_attendance_date\"),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name=\"user\",\n            name=\"roll_number\",\n        ),\n        migrations.AddField(",
+        "detail": "attendance.migrations.0004_remove_user_roll_number_user_id_number",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdmin",
+        "kind": 6,
+        "importPath": "attendance.admin",
+        "description": "attendance.admin",
+        "peekOfCode": "class UserAdmin(admin.ModelAdmin):\n    list_display = ('username', 'ID_number')",
+        "detail": "attendance.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AttendanceConfig",
+        "kind": 6,
+        "importPath": "attendance.apps",
+        "description": "attendance.apps",
+        "peekOfCode": "class AttendanceConfig(AppConfig):\n    default_auto_field = \"django.db.models.BigAutoField\"\n    name = \"attendance\"",
+        "detail": "attendance.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserForm",
+        "kind": 6,
+        "importPath": "attendance.forms",
+        "description": "attendance.forms",
+        "peekOfCode": "class UserForm(forms.ModelForm):\n    class Meta:\n        model = User\n        fields = ['username', 'ID_number']\n        widgets = {\n            'username': forms.TextInput(attrs={'placeholder': 'Enter Username'}),\n            'ID_number': forms.TextInput(attrs={'placeholder': 'Enter Roll Number'}),\n        }",
+        "detail": "attendance.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "attendance.models",
+        "description": "attendance.models",
+        "peekOfCode": "class User(models.Model):\n    username = models.CharField(max_length=150)\n    ID_number = models.CharField(max_length=10,unique=True)\n    def __str__(self):\n        return f'{self.username} ({self.ID_number})'\nclass Attendance(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    timestamp = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f'Attendance for {self.user.username} at {self.timestamp}'",
+        "detail": "attendance.models",
+        "documentation": {}
+    },
+    {
+        "label": "Attendance",
+        "kind": 6,
+        "importPath": "attendance.models",
+        "description": "attendance.models",
+        "peekOfCode": "class Attendance(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE)\n    timestamp = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f'Attendance for {self.user.username} at {self.timestamp}'",
+        "detail": "attendance.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "attendance.urls",
+        "description": "attendance.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name='home'),  # Main page\n    path('start/', views.start_attendance, name='start_attendance'),  # Start attendance\n    path('add/', views.add_user, name='add_user'),  # Add a new user\n    path('attendance/', views.add_attendance, name='attendance'),  # View attendance records\n    path('delete_all_attendance/', views.delete_all_attendance, name='delete_all_attendance'),\n]",
+        "detail": "attendance.urls",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_user_monthly_csv",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def initialize_user_monthly_csv(user):\n    current_month = datetime.now().strftime(\"%Y-%m\")\n    user_dir = os.path.join(BASE_CSV_DIR, user.ID_number)\n    # Créer le répertoire de l'utilisateur s'il n'existe pas\n    if not os.path.exists(user_dir):\n        os.makedirs(user_dir)\n    csv_file_path = os.path.join(user_dir, f\"{current_month}.csv\")\n    # Si le fichier CSV n'existe pas, créez-le avec les en-têtes\n    if not os.path.isfile(csv_file_path):\n        with open(csv_file_path, \"w\") as f:",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_attendance",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def add_attendance(user):\n    csv_file_path = initialize_user_monthly_csv(\n        user\n    )  # Appel à la fonction d'initialisation\n    current_time = datetime.now().strftime(\"%H:%M:%S\")\n    current_date = datetime.now().strftime(\"%Y-%m-%d\")\n    # Charger le fichier CSV dans un DataFrame pandas\n    df = pd.read_csv(csv_file_path)\n    # Si l'utilisateur n'est pas déjà présent, ajoutez-le\n    if user.ID_number not in df[\"ID_number\"].values:",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "totalreg",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def totalreg():\n    return User.objects.count()\ndef extract_faces(img):\n    if img is not None:\n        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n        face_points = face_detector.detectMultiScale(gray, 1.2, 5, minSize=(20, 20))\n        print(f\"Visages détectés : {len(face_points)}\")  # Ajouté pour le débogage\n        return face_points\n    return []\ndef identify_face(facearray):",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "extract_faces",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def extract_faces(img):\n    if img is not None:\n        gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)\n        face_points = face_detector.detectMultiScale(gray, 1.2, 5, minSize=(20, 20))\n        print(f\"Visages détectés : {len(face_points)}\")  # Ajouté pour le débogage\n        return face_points\n    return []\ndef identify_face(facearray):\n    try:\n        model = joblib.load(\"static/face_recognition_model.pkl\")",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "identify_face",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def identify_face(facearray):\n    try:\n        model = joblib.load(\"static/face_recognition_model.pkl\")\n        return model.predict(facearray)\n    except Exception as e:\n        raise Exception(f\"Erreur lors du chargement du modèle : {e}\")\ndef train_model():\n    faces = []\n    labels = []\n    users = User.objects.all()",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def train_model():\n    faces = []\n    labels = []\n    users = User.objects.all()\n    for user in users:\n        user_images_path = os.path.join(\n            \"static/faces\", f\"{user.username}_{user.ID_number}\"\n        )\n        for imgname in os.listdir(user_images_path):\n            img = cv2.imread(os.path.join(user_images_path, imgname))",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def home(request):\n    attendance_records = Attendance.objects.all()\n    return render(\n        request,\n        \"attendance/home.html\",\n        {\n            \"attendance_records\": attendance_records,\n            \"totalreg\": totalreg(),\n        },\n    )",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "start_attendance",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def start_attendance(request):\n    # Vérifiez si le modèle de reconnaissance faciale existe\n    if not os.path.isfile(\"static/face_recognition_model.pkl\"):\n        return render(\n            request,\n            \"attendance/home.html\",\n            {\n                \"totalreg\": totalreg(),\n                \"mess\": \"Aucun modèle entraîné trouvé. Veuillez ajouter un nouvel utilisateur.\",\n            },",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_user",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def add_user(request):\n    if request.method == \"POST\":\n        form = UserForm(request.POST)\n        if form.is_valid():\n            user = form.save()\n            userimagefolder = os.path.join(\"static/faces\", f\"{user.username}_{user.ID_number}\")\n            os.makedirs(userimagefolder, exist_ok=True)\n            cap = cv2.VideoCapture(0)\n            if not cap.isOpened():\n                messages.error(request, \"Impossible d'accéder à la webcam.\")",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_all_attendance",
+        "kind": 2,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "def delete_all_attendance(request):\n    Attendance.objects.all().delete()\n    messages.success(request, 'Tous les enregistrements d\\'assistance ont été supprimés avec succès !')\n    return redirect('home')",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "face_cascade_path",
+        "kind": 5,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "face_cascade_path = os.path.join(\n    settings.BASE_DIR, \"static/haarcascade_frontalface_default.xml\"\n)\nface_detector = cv2.CascadeClassifier(face_cascade_path)\n# Vérifiez que le détecteur est chargé avec succès\nif face_detector.empty():\n    raise Exception(\"Échec du chargement du fichier XML Haar Cascade.\")\n# Répertoire où stocker les fichiers CSV\nBASE_CSV_DIR = \"attendance_records/\"\ndef initialize_user_monthly_csv(user):",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "face_detector",
+        "kind": 5,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "face_detector = cv2.CascadeClassifier(face_cascade_path)\n# Vérifiez que le détecteur est chargé avec succès\nif face_detector.empty():\n    raise Exception(\"Échec du chargement du fichier XML Haar Cascade.\")\n# Répertoire où stocker les fichiers CSV\nBASE_CSV_DIR = \"attendance_records/\"\ndef initialize_user_monthly_csv(user):\n    current_month = datetime.now().strftime(\"%Y-%m\")\n    user_dir = os.path.join(BASE_CSV_DIR, user.ID_number)\n    # Créer le répertoire de l'utilisateur s'il n'existe pas",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_CSV_DIR",
+        "kind": 5,
+        "importPath": "attendance.views",
+        "description": "attendance.views",
+        "peekOfCode": "BASE_CSV_DIR = \"attendance_records/\"\ndef initialize_user_monthly_csv(user):\n    current_month = datetime.now().strftime(\"%Y-%m\")\n    user_dir = os.path.join(BASE_CSV_DIR, user.ID_number)\n    # Créer le répertoire de l'utilisateur s'il n'existe pas\n    if not os.path.exists(user_dir):\n        os.makedirs(user_dir)\n    csv_file_path = os.path.join(user_dir, f\"{current_month}.csv\")\n    # Si le fichier CSV n'existe pas, créez-le avec les en-têtes\n    if not os.path.isfile(csv_file_path):",
+        "detail": "attendance.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "automatic_attendance.asgi",
+        "description": "automatic_attendance.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "automatic_attendance.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = \"django-insecure-^_)rr=+5d(f+*!8yqg3!mzs+$-egunmx21dia4=5f9t(!l0vxu\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "SECRET_KEY = \"django-insecure-^_)rr=+5d(f+*!8yqg3!mzs+$-egunmx21dia4=5f9t(!l0vxu\"\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"attendance\",",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    \"django.contrib.admin\",\n    \"django.contrib.auth\",\n    \"django.contrib.contenttypes\",\n    \"django.contrib.sessions\",\n    \"django.contrib.messages\",\n    \"django.contrib.staticfiles\",\n    \"attendance\",\n]\nMIDDLEWARE = [",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    \"django.middleware.security.SecurityMiddleware\",\n    \"django.contrib.sessions.middleware.SessionMiddleware\",\n    \"django.middleware.common.CommonMiddleware\",\n    \"django.middleware.csrf.CsrfViewMiddleware\",\n    \"django.contrib.auth.middleware.AuthenticationMiddleware\",\n    \"django.contrib.messages.middleware.MessageMiddleware\",\n    \"django.middleware.clickjacking.XFrameOptionsMiddleware\",\n]\nROOT_URLCONF = \"automatic_attendance.urls\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "ROOT_URLCONF = \"automatic_attendance.urls\"\nTEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        \"BACKEND\": \"django.template.backends.django.DjangoTemplates\",\n        \"DIRS\": [],\n        \"APP_DIRS\": True,\n        \"OPTIONS\": {\n            \"context_processors\": [\n                \"django.template.context_processors.debug\",\n                \"django.template.context_processors.request\",\n                \"django.contrib.auth.context_processors.auth\",",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "WSGI_APPLICATION = \"automatic_attendance.wsgi.application\"\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "DATABASES = {\n    \"default\": {\n        \"ENGINE\": \"django.db.backends.sqlite3\",\n        \"NAME\": BASE_DIR / \"db.sqlite3\",\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.UserAttributeSimilarityValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.MinimumLengthValidator\",\n    },\n    {\n        \"NAME\": \"django.contrib.auth.password_validation.CommonPasswordValidator\",\n    },",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "LANGUAGE_CODE = \"en-us\"\nTIME_ZONE = \"Asia/Tokyo\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "TIME_ZONE = \"Asia/Tokyo\"\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "STATIC_URL = \"static/\"\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "automatic_attendance.settings",
+        "description": "automatic_attendance.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = \"django.db.models.BigAutoField\"",
+        "detail": "automatic_attendance.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "automatic_attendance.urls",
+        "description": "automatic_attendance.urls",
+        "peekOfCode": "urlpatterns = [\n    path(\"admin/\", admin.site.urls),\n    path('', include('attendance.urls')),\n]",
+        "detail": "automatic_attendance.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "automatic_attendance.wsgi",
+        "description": "automatic_attendance.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "automatic_attendance.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault(\"DJANGO_SETTINGS_MODULE\", \"automatic_attendance.settings\")\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

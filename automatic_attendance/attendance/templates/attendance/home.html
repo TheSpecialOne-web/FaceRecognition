@@ -1,0 +1,64 @@
+{% extends 'attendance/base.html' %}
+
+{% block message %}
+    {% if mess %}
+        <p class="text-center" style="color: #d9534f; font-size: 20px; font-weight: bold;">{{ mess }}</p>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+ <!-- Flexbox container for buttons -->
+ <div class="d-flex justify-content-between" style="padding: 10px;">
+    <!-- Button Take Attendance (aligned left) -->
+    <a style="text-decoration: none;" href="/start">
+        <button style="font-size: 18px; font-weight: bold; border-radius: 10px; padding: 10px 20px;" type='submit' class='btn btn-primary'>
+            Take Attendance <i class="material-icons">beenhere</i>
+        </button>
+    </a>
+
+    <!-- Button Add User (aligned right) -->
+    <a href="{% url 'add_user' %}" class="btn btn-primary" style="font-size: 18px; font-weight: bold; border-radius: 10px; padding: 10px 20px;">
+        Add User
+    </a>
+</div>
+
+<div class="row text-center" style="padding: 20px;margin: 20px;">
+    <div class="col"
+        style="border-radius: 20px;padding: 0px;background-color:rgb(211,211,211,0.5);margin:0px 10px 10px 10px;min-height: 400px;">
+        <h2 style="border-radius: 20px 20px 0px 0px;background-color: #0b4c61;color: white;padding: 10px;">Today's Attendance <i class="material-icons">assignment</i></h2>
+
+       
+        <!-- Table for attendance data -->
+        <table class="table table-bordered text-center" style="width: 100%;">
+            <thead style="background-color: #5bc0de; color: white;">
+                <tr>
+                    <th>NAME</th>
+                    <th>ID_NUMBER</th>
+                    <th>DATE</th>
+                    <th>TIME</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for record in attendance_records %}
+                <tr>
+                    <td>{{ record.user.username }}</td>
+                    <td>{{ record.user.ID_number }}</td>
+                    <td>{{ record.timestamp|date:"Y-m-d" }}</td>  <!-- Affiche la date -->
+                    <td>{{ record.timestamp|date:"H:i:s" }}</td>  <!-- Affiche l'heure -->
+                    
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<!-- Display the total registration count -->
+<h3 class="text-center" style="color: #5bc0de; font-weight: bold;">Total Registrations: {{ totalreg }}</h3>
+
+<div class="row text-center">
+    <div class="col" style="padding: 0; margin: 10px;">
+        <a href="{% url 'delete_all_attendance' %}" class="btn btn-danger" style="padding: 10px 20px; border-radius: 5px;">Delete All Attendance</a>
+    </div>
+</div>
+{% endblock %}

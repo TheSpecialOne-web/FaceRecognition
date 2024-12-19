@@ -1,0 +1,56 @@
+Document de Conception de Base (基本設計書)
+1. Titre du Projet
+Application de présence avec reconnaissance faciale
+2. Objectif du Projet
+Développer une application qui permet de suivre la présence des utilisateurs en utilisant la reconnaissance faciale pour identifier les utilisateurs à partir de leur image capturée via une webcam.
+3. Contexte
+Présentation de la problématique, besoin d'une solution pour la gestion de présence et avantages de l'utilisation de la reconnaissance faciale.
+4. Fonctionnalités Principales
+Ajout d'utilisateur
+Formulaire pour enregistrer les utilisateurs avec leur nom et numéro de rouleau.
+Capture d'image pour chaque utilisateur.
+Reconnaissance faciale
+Détection de visages à partir du flux vidéo.
+Identification des utilisateurs enregistrés.
+Suivi de présence
+Enregistrement de la présence des utilisateurs identifiés.
+Affichage du nom de l'utilisateur détecté sur l'interface.
+Interface utilisateur
+Affichage de la webcam pour l'ajustement de la position.
+Messages d'information pour guider l'utilisateur.
+5. Architecture du Système
+Composants
+Frontend : Interface utilisateur (HTML/CSS, JavaScript)
+Backend : Serveur web (Django)
+Base de données : Stockage des utilisateurs et des images (SQLite/PostgreSQL)
+Module de reconnaissance faciale : Utilisation de bibliothèques comme OpenCV et face_recognition.
+6. Technologies Utilisées
+Langages de programmation : Python, JavaScript
+Frameworks : Django pour le backend, OpenCV pour la reconnaissance faciale.
+Base de données : SQLite ou PostgreSQL.
+Bibliothèques tierces : face_recognition, cv2.
+7. Modèle de Données
+User
+id: Identifiant unique
+username: Nom de l'utilisateur
+roll_number: Numéro de rouleau
+image_path: Chemin vers l'image capturée
+8. Flux de l'Application
+Utilisateur remplit le formulaire d'inscription.
+L'utilisateur ajuste sa position devant la webcam.
+Capture de l'image lorsque l'utilisateur appuie sur "E".
+Identification de l'utilisateur lorsque le flux vidéo est en cours.
+Enregistrement de la présence dans la base de données.
+9. Sécurité
+Gestion des autorisations d'accès.
+Protection des données utilisateur.
+10. Tests
+Tests unitaires pour chaque fonction principale.
+Tests d'intégration pour s'assurer que tous les composants fonctionnent ensemble.
+Tests de performance pour évaluer la rapidité de la reconnaissance faciale.
+11. Plan de Déploiement
+Hébergement du serveur Django sur une plateforme (par exemple, Heroku, AWS).
+Mise en place d'une base de données en ligne.
+12. Maintenance et Support
+Mise à jour régulière de la base de données des utilisateurs.
+Correction des bugs et amélioration continue de l'application.
